@@ -1,0 +1,44 @@
+body{
+  background-color:  	#d5e1ef;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  margin: auto;
+  font-size: 100%;
+
+}
+
+
+.main{
+  background-color: white;
+  margin:0 auto;
+  border-radius: 15px;
+  text-align: center;
+  width:25%;
+  align-content: center;
+  margin-top: 50px;
+
+
+}
+
+h3{
+  font-family: 'Outfit', sans-serif;
+  font-size:3vmin;
+
+}
+img{
+  margin:auto;
+  margin-top: 15px;
+  border-radius: 15px;
+  width:90%;
+
+
+
+}
+
+p{
+  padding: 10px 10px 10px 10px;
+  padding-bottom: 30px;
+  font-size:2vmin;
+
+
+}
